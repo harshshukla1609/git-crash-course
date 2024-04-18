@@ -8,3 +8,7 @@ function sayMyName(){
 function isAdult(){
     return age>=18
 }
+
+function newFn(){
+    console.log('This is new FN')
+}
