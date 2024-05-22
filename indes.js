@@ -9,3 +9,7 @@ function newFeatureAdddB(){
     console.log('This is a new FeatB')
     console.log('This is latest featureB')
 }
+function newFeatureAdddC(){
+    console.log('This is a new FeatC')
+    console.log('This is latest featureC')
+}
