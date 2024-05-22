@@ -12,4 +12,5 @@ function newFeatureAdddB(){
 function newFeatureAdddC(){
     console.log('This is a new FeatC')
     console.log('This is latest featureC')
+    console.log('This is latest featureC1')
 }
